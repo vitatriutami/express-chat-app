@@ -1,0 +1,11 @@
+#chat-box .card {
+    max-width: 70%;
+}
+
+#chat-box {
+    overflow-y: auto;
+}
+
+#chat-form > textarea {
+    max-height: 100px;
+}
